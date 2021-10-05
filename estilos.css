@@ -1,0 +1,87 @@
+.formato-cuerpo{
+    text-align: center;
+    border-color: rgb(206, 7, 7);
+    width: 800px;
+    background-color: transparent;
+    margin: auto;    
+}
+.nav-enlace{
+    background-color: rgb(15, 128, 5);
+    color:antiquewhite;
+    border: 1px solid black;
+    padding-top: 0px;
+    padding-right: 50px;
+    padding-bottom: 0px;
+    padding-left: 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+.nav-enlace2{
+    background-color: rgb(77, 99, 75);
+    color:black;
+    padding-top: 2px;
+    padding-right: 50px;
+    padding-bottom: 0px;
+    padding-left: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.logo{
+    background-color: transparent;
+    border: 1px solid black;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    }
+.nav-enlace:hover{
+    background-color: aquamarine;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.formato-formulario{
+    text-align: center;
+    border-color: black;
+    width: 400px;
+    background-color: transparent;
+    margin: auto;
+}
+.formato-formulario h3{
+    font-size: 25px;
+    text-align: center;
+    color: aliceblue;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    background-color: rgb(5, 85, 25);
+}
+.etiqueta-label{
+    text-align: left;
+    color: black;
+    background-color: transparent;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.entradas{
+    background-color: rgb(167, 164, 164);
+    border-radius: 4px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+}
+.boton-ejecutar{
+    border-radius: 4px;
+    width: 150px;
+    text-align: center;
+    background-color: rgb(9, 110, 25);
+}
